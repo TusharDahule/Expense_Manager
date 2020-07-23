@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\context"
+  ],
+  "SelectedNode": "\\client\\src\\context\\AppReducer.js",
+  "PreviewInSolutionExplorer": false
+}
